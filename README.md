@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h2>👨‍💻 Study at the university https://itstep.org/uk</h2>
 <h3>A frontend developer from Ukraine</h3>
-<h3>link to my telegram https://t.me/MaKcNzr</h3>
+<h3>Link to my telegram https://t.me/MaKcNzr</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
