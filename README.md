@@ -16,3 +16,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
 </a>
 </p>
+<h3 align="left">My Sertificates:</h3>
+<a href="https://drive.google.com/file/d/13fZiH8UQPP1U7iB8i6D-taH3gGyTt1Ke/view">JS course</a>
