@@ -17,4 +17,5 @@
 </a>
 </p>
 <h3 align="left">My Sertificates:</h3>
-1. <a href="https://drive.google.com/file/d/13fZiH8UQPP1U7iB8i6D-taH3gGyTt1Ke/view">JS course</a>
+1. <a href="https://drive.google.com/file/d/13fZiH8UQPP1U7iB8i6D-taH3gGyTt1Ke/view](https://drive.google.com/file/d/13fZiH8UQPP1U7iB8i6D-taH3gGyTt1Ke/view?usp=sharing">JS course</a>
+2. <a href="https://drive.google.com/file/d/13fZiH8UQPP1U7iB8i6D-taH3gGyTt1Ke/view](https://drive.google.com/file/d/1zuwrPP8hPD6aE0k1dw_9vQ4-ef1Pkrzi/view?usp=sharing">JS course</a>
