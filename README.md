@@ -51,3 +51,16 @@
 <p>
   2. <a href="https://drive.google.com/file/d/1zuwrPP8hPD6aE0k1dw_9vQ4-ef1Pkrzi/view" target="_blank">HTML-CSS-JS course</a>
 </p>
+<p>
+  3. <a href="https://drive.google.com/file/d/1HMKOttjXu9_Khzp5jTYJ2V-cnxP52nBz/view?usp=sharing" target="_blank">Certificate IT Essentials</a>
+</p>
+<p>
+  4. <a href="https://drive.google.com/file/d/1svZW5V3nWpAZeTvSZp0pNqJCvx9sb4hM/view?usp=sharing" target="_blank">Cisco IT Essentials Certificate</a>
+</p>
+<p>
+  5. <a href="https://drive.google.com/file/d/1YGtlG2cdxJ_0Ao0ufdULKAfirUoEnTnq/view?usp=sharing" target="_blank">CPA Programming Essentials in C++</a>
+</p>
+<p>
+  6. <a href="https://drive.google.com/file/d/1_XH2ZBRARsZ82GtkR0971u5jIpOISYHa/view?usp=sharing" target="_blank">JavaScript Essentials 1</a>
+</p>
+
