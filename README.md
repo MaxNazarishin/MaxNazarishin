@@ -15,7 +15,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a> 
-  <a href="https://en.bem.info/" target="_blank" rel="noreferrer">
+<a href="https://en.bem.info/" target="_blank" rel="noreferrer" style="background-color: white; display: inline-block; border-radius: 5px;">
     <img src="https://iconape.com/wp-content/files/jq/271067/svg/bem-logo-logo-icon-png-svg.png" alt="bem" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
